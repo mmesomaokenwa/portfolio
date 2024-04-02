@@ -288,7 +288,7 @@ const projects = [
     ],
     image: eventlyplatform,
     source_code_link: "https://github.com/mmesomaokenwa/evently",
-    deployed_link: "https://evently-pro.vercel.app",
+    deployed_link: "https://evently-prod.vercel.app",
   },
 ];
 
