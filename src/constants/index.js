@@ -22,6 +22,7 @@ import {
   designer,
   dalle,
   iphonepage,
+  eventlyplatform,
   threejs,
 } from "../assets";
 
@@ -245,17 +246,39 @@ const projects = [
     source_code_link: "https://github.com/mmesomaokenwa/dall-e",
     deployed_link: "https://dall-e-betaa.vercel.app",
   },
+  // {
+  //   name: "Apple iPhone 15 Pro Mockup",
+  //   description:
+  //     "A comprehensive landing page showcasing the details and specifications of the  Apple iPhone 15 Pro with amazing video animations and 3D models of the different phone sizes.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "threejs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: iphonepage,
+  //   source_code_link: "https://github.com/mmesomaokenwa/appleiphone15pro",
+  //   deployed_link: "https://appleiphone15pro-pi.vercel.app",
+  // },
   {
-    name: "Apple iPhone 15 Pro Mockup",
+    name: "Evently",
     description:
-      "A comprehensive landing page showcasing the details and specifications of the  Apple iPhone 15 Pro with amazing video animations and 3D models of the different phone sizes.",
+      "A web application that enables users to create events and share them with others who are interested in attending them.",
     tags: [
       {
-        name: "react",
+        name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "mongodb",
         color: "green-text-gradient",
       },
       {
@@ -263,9 +286,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: iphonepage,
-    source_code_link: "https://github.com/mmesomaokenwa/appleiphone15pro",
-    deployed_link: "https://appleiphone15pro-pi.vercel.app",
+    image: eventlyplatform,
+    source_code_link: "https://github.com/mmesomaokenwa/evently",
+    deployed_link: "https://evently-pro.vercel.app",
   },
 ];
 
