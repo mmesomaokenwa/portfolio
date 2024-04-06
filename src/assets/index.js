@@ -32,6 +32,7 @@ import designer from './3ddesigner.png';
 import dalle from './dalle.png';
 import iphonepage from './iphonepage.png';
 import eventlyplatform from './eventlyplatform.png';
+import techhaven from './techhaven.png';
 
 export {
   mylogo,
@@ -64,5 +65,6 @@ export {
   designer,
   dalle,
   iphonepage,
-  eventlyplatform
+  eventlyplatform,
+  techhaven
 };

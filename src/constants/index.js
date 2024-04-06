@@ -23,6 +23,7 @@ import {
   dalle,
   iphonepage,
   eventlyplatform,
+  techhaven,
   threejs,
 } from "../assets";
 
@@ -224,28 +225,28 @@ const projects = [
     source_code_link: "https://github.com//mmesomaokenwa/react-three-js",
     deployed_link: "https://3d-shirt-selector.vercel.app",
   },
-  {
-    name: "Dall-E",
-    description:
-      "Web application that enables users to generate and share high-quality images with the community, based on text inputs and prompts.",
-    tags: [
-      {
-        name: "react",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "mongodb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "tailwind",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: dalle,
-    source_code_link: "https://github.com/mmesomaokenwa/dall-e",
-    deployed_link: "https://dall-e-betaa.vercel.app",
-  },
+  // {
+  //   name: "Dall-E",
+  //   description:
+  //     "Web application that enables users to generate and share high-quality images with the community, based on text inputs and prompts.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "mongodb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: dalle,
+  //   source_code_link: "https://github.com/mmesomaokenwa/dall-e",
+  //   deployed_link: "https://dall-e-betaa.vercel.app",
+  // },
   // {
   //   name: "Apple iPhone 15 Pro Mockup",
   //   description:
@@ -289,6 +290,28 @@ const projects = [
     image: eventlyplatform,
     source_code_link: "https://github.com/mmesomaokenwa/evently",
     deployed_link: "https://evently-prod.vercel.app",
+  },
+  {
+    name: "Tech Haven",
+    description:
+      "An e-commerce web application that enables users to browse and purchase tech products from a variety of categories.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "payloadcms",
+        color: "green-text-gradient",
+      },
+      {
+        name: "scss",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: techhaven,
+    source_code_link: "https://github.com/mmesomaokenwa/e-commerce",
+    deployed_link: "https://e-commerce-pro.payloadcms.app",
   },
 ];
 
