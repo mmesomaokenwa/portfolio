@@ -25,6 +25,7 @@ import {
   eventlyplatform,
   techhaven,
   threejs,
+  chatwave,
 } from "../assets";
 
 export const navLinks = [
@@ -86,22 +87,22 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  // {
-  //   name: "Redux Toolkit",
-  //   icon: redux,
-  // },
+  {
+    name: "Redux Toolkit",
+    icon: redux,
+  },
   {
     name: "Tailwind CSS",
     icon: tailwind,
   },
-  // {
-  //   name: "Node JS",
-  //   icon: nodejs,
-  // },
-  // {
-  //   name: "MongoDB",
-  //   icon: mongodb,
-  // },
+  {
+    name: "Node JS",
+    icon: nodejs,
+  },
+  {
+    name: "MongoDB",
+    icon: mongodb,
+  },
   {
     name: "Three JS",
     icon: threejs,
@@ -203,6 +204,28 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "ChatWave - In Progress",
+    description:
+      "A social media web application where users share content, like and follow users, as well as chat with other users, with features like authentication and real time messaging and updates.",
+    tags: [
+      {
+        name: "next.js",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "react",
+        color: "green-text-gradient",
+      },
+      {
+        name: "mongodb",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: chatwave,
+    source_code_link: "https://github.com//mmesomaokenwa/ChatWave",
+    deployed_link: "https://chatwave-pro.vercel.app",
+  },
   {
     name: "3D Shirt Designer",
     description:
