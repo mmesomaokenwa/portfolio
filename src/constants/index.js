@@ -314,28 +314,28 @@ const projects = [
     source_code_link: "https://github.com/mmesomaokenwa/evently",
     deployed_link: "https://evently-prod.vercel.app",
   },
-  {
-    name: "Tech Haven",
-    description:
-      "An e-commerce web application that enables users to browse and purchase tech products from a variety of categories.",
-    tags: [
-      {
-        name: "next.js",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "payloadcms",
-        color: "green-text-gradient",
-      },
-      {
-        name: "scss",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: techhaven,
-    source_code_link: "https://github.com/mmesomaokenwa/e-commerce",
-    deployed_link: "https://e-commerce-pro.payloadcms.app",
-  },
+  // {
+  //   name: "Tech Haven",
+  //   description:
+  //     "An e-commerce web application that enables users to browse and purchase tech products from a variety of categories.",
+  //   tags: [
+  //     {
+  //       name: "next.js",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "payloadcms",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "scss",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: techhaven,
+  //   source_code_link: "https://github.com/mmesomaokenwa/e-commerce",
+  //   deployed_link: "https://e-commerce-pro.payloadcms.app",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
