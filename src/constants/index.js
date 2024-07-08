@@ -125,19 +125,6 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer Intern",
-    company_name: "Soft 6060",
-    icon: soft6060,
-    iconBg: "#383E56",
-    date: "May 2024 - Present",
-    points: [
-      "Assisting senior developers in implementing frontend features and resolving technical issues in web applications.",
-      "Became the lead developer among my fellow interns showcasing my ability to take charge and adapt in any given environment.",
-      "Completing assigned tasks and deliverables within established timelines, demonstrating strong time management skills and attention to detail.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
     title: "Frontend Web Developer",
     company_name: "Freelance",
     icon: upwork,
@@ -148,6 +135,19 @@ const experiences = [
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Implementing SEO best practices to improve website visibility and search engine rankings for clients.",
+    ],
+  },
+  {
+    title: "Frontend Developer Intern",
+    company_name: "Soft 6060",
+    icon: soft6060,
+    iconBg: "#383E56",
+    date: "May 2024 - Present",
+    points: [
+      "Assisting senior developers in implementing frontend features and resolving technical issues in web applications.",
+      "Became the lead developer among my fellow interns showcasing my ability to take charge and adapt in any given environment.",
+      "Completing assigned tasks and deliverables within established timelines, demonstrating strong time management skills and attention to detail.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
   // {
