@@ -27,6 +27,8 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import soft6060 from "./company/soft6060.jpeg";
+import upwork from "./company/upwork.png";
 
 import designer from './3ddesigner.png';
 import dalle from './dalle.png';
@@ -63,6 +65,8 @@ export {
   shopify,
   starbucks,
   tesla,
+  soft6060,
+  upwork,
   designer,
   dalle,
   iphonepage,
