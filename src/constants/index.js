@@ -28,6 +28,7 @@ import {
   techhaven,
   threejs,
   chatwave,
+  carepulse,
 } from "../assets";
 
 export const navLinks = [
@@ -229,27 +230,49 @@ const projects = [
     deployed_link: "https://chatwave-pro.vercel.app",
   },
   {
-    name: "3D Shirt Designer",
+    name: "CarePulse",
     description:
-      "A virtual shirt designer that allows users to design, customize and view their merches and tshirts in 3D, with AI assistance, all from the comfort of their own home.",
+      "A web application that enables users to schedule appointments with doctors, view their medical history, and manage their health records.",
     tags: [
       {
-        name: "react",
+        name: "next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "threejs",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "appwrite",
         color: "pink-text-gradient",
       },
     ],
-    image: designer,
-    source_code_link: "https://github.com//mmesomaokenwa/react-three-js",
-    deployed_link: "https://3d-shirt-selector.vercel.app",
+    image: carepulse,
+    source_code_link: "https://github.com/mmesomaokenwa/carepulse",
+    deployed_link: "https://carepulse-one-dusky.vercel.app/",
   },
+  // {
+  //   name: "3D Shirt Designer",
+  //   description:
+  //     "A virtual shirt designer that allows users to design, customize and view their merches and tshirts in 3D, with AI assistance, all from the comfort of their own home.",
+  //   tags: [
+  //     {
+  //       name: "react",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "threejs",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "tailwind",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: designer,
+  //   source_code_link: "https://github.com//mmesomaokenwa/react-three-js",
+  //   deployed_link: "https://3d-shirt-selector.vercel.app",
+  // },
   // {
   //   name: "Dall-E",
   //   description:

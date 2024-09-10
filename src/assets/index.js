@@ -35,7 +35,8 @@ import dalle from './dalle.png';
 import iphonepage from './iphonepage.png';
 import eventlyplatform from './eventlyplatform.png';
 import techhaven from './techhaven.png';
-import chatwave from './chatwave.png'
+import chatwave from './chatwave.png';
+import carepulse from './carepulse.png';
 
 export {
   mylogo,
@@ -72,5 +73,6 @@ export {
   iphonepage,
   eventlyplatform,
   techhaven,
-  chatwave
+  chatwave,
+  carepulse,
 };
